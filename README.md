@@ -5,7 +5,7 @@ Deploy [chisel](https://github.com/jpillora/chisel) to [Heroku](https://www.hero
 
 ### Getting started
 
-Use this button [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrluanma/chisel-heroku)
+Use this button [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skillessbrazilian/chisel-heroku)
 
 Or create a Heroku app manually:
 
