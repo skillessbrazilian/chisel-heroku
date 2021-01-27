@@ -5,6 +5,9 @@
   "env": {
     "CHISEL_AUTH": {
       "description": "The --auth option of chisel, in the form of <user:pass>."
+    },
+    "BACKEND": {
+      "description": "The --backend option of chisel."
     }
   }
 }
